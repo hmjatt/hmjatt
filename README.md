@@ -1,5 +1,5 @@
 # Hi 👋, I'm Harmeet
-## A passionate frontend developer from Canada, learning to Code
+<h2 align="center"> A passionate frontend developer from Canada, learning to Code</h2>
 
 <br>
 <br>
