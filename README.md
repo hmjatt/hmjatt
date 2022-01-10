@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Harmeet</h1>
+###Hi 👋, I'm Harmeet###
 <h2 align="center">A passionate frontend developer from Canada, learning to Code</h2>
 
 <br>
