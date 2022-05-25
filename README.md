@@ -11,7 +11,7 @@
 - 💬 Ask me about hardware or software, know a little about both worlds <br>
 - 📫 How to reach me: &ensp; <a href="https://twitter.com/hmjatt" target="blank"><img src="https://img.shields.io/twitter/follow/hmjatt?logo=twitter&style=for-the-badge" alt="hmjatt" /></a> <br>
 - ⚡ Fun fact: Coding is my superpower <br>
-- 🌉 Side Projects(& Technologies): <a href="https://docs.oracle.com/en/java/" target="_blank" rel="noreferrer"> <img src="https://static.javatpoint.com/core/images/java-logo1.png" alt="java" width="120" height="50"/> </a>  &emsp;   <a href="https://docs.oracle.com/cd/E12151_01/index.html" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo.png" alt="sql" width="120" height="50"/> </a> <br>
+- 🌉 Side Projects(& Technologies): <a href="https://docs.oracle.com/en/java/" target="_blank" rel="noreferrer"> <img src="https://www.oracle.com/a/ocom/img/i-code-java-150x176-3854595.png" alt="java"/> </a>  &emsp;   <a href="https://docs.oracle.com/cd/E12151_01/index.html" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo.png" alt="sql" width="120" height="50"/> </a> <br>
 </h3>
 
 <br>
