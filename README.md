@@ -6,11 +6,12 @@
 
 <h3 align="left">  
 - 🌱 I’m currently learning  &emsp;   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="30" height="30"/> </a>  &emsp;   <a href="https://webpack.js.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/webpack/media/master/logo/logo-on-dark-bg.svg" alt="webpack" width="120" height="50"/> </a>  &emsp;   <a href="https://www.npmjs.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/npm/logos/master/npm%20logo/npm-logo-red.svg" alt="npm" width="70" height="35"/> </a>  &emsp;   <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="30" height="30"/> </a> <br>
-- 🔭 I’m currently working on a Project Management Application <a href="https://github.com/hmjatt/Project-Management-App"> Code </a> <br>
+- 🔭 I’m currently working on a Weather Application <a href="https://github.com/hmjatt/Weather-App"> Code </a> <br>
 - 👯 🤔 Let me know how can i improve, all feedback is appreciated <br>
 - 💬 Ask me about hardware or software, know a little about both worlds <br>
 - 📫 How to reach me: &ensp; <a href="https://twitter.com/hmjatt" target="blank"><img src="https://img.shields.io/twitter/follow/hmjatt?logo=twitter&style=for-the-badge" alt="hmjatt" /></a> <br>
 - ⚡ Fun fact: Coding is my superpower <br>
+- 🌉 Side Projects(& Technologies): <a href="https://docs.oracle.com/en/java/" target="_blank" rel="noreferrer"> <img src="https://static.javatpoint.com/core/images/java-logo1.png" alt="java" width="120" height="50"/> </a>  &emsp;   <a href="https://docs.oracle.com/cd/E12151_01/index.html" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo.png" alt="sql" width="120" height="50"/> </a> <br>
 </h3>
 
 <br>
