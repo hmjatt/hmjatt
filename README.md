@@ -4,7 +4,7 @@
 <br>
 <br>
 
-<h3 align="left">  
+<p align="left">  
 - 🌱 I’m currently learning  &emsp;   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="30" height="30"/> </a>  &emsp;   <a href="https://webpack.js.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/webpack/media/master/logo/logo-on-dark-bg.svg" alt="webpack" width="120" height="50"/> </a>  &emsp;   <a href="https://www.npmjs.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/npm/logos/master/npm%20logo/npm-logo-red.svg" alt="npm" width="70" height="35"/> </a>  &emsp;   <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="30" height="30"/> </a> <br>
 - 🔭 I’m currently working on a Battleship Game <a href="https://github.com/hmjatt/Battleship"> Code </a> <br>
 - 👯 🤔 Let me know how can i improve, all feedback is appreciated <br>
@@ -12,7 +12,7 @@
 - 📫 How to reach me: &ensp; <a href="https://twitter.com/hmjatt" target="blank"><img src="https://img.shields.io/twitter/follow/hmjatt?logo=twitter&style=for-the-badge" alt="hmjatt" /></a> <br>
 - ⚡ Fun fact: Coding is my superpower <br>
 - 🌉 Side Projects(& Technologies): <a href="https://docs.oracle.com/en/java/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="120" height="50"/> </a>  &emsp;   <a href="https://docs.oracle.com/cd/E12151_01/index.html" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo.png" alt="sql" width="120" height="50"/> </a> <br>
-</h3>
+</p>
 
 <br>
 
