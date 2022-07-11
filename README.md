@@ -23,4 +23,4 @@
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=dark)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=hmjatt&icon=0&color=9)](https://visitcount.itsvg.in)
+![](https://komarev.com/ghpvc/?username=hmjatt&color=268f77&label=Hey+👋+Visitor)
