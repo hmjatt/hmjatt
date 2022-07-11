@@ -1,7 +1,5 @@
 <img src="https://github.com/hmjatt/hmjatt.github.io/blob/master/images/gitBanner.gif" alt="Banner"></img>
 
-<br>
-<br>
 
 # 💫 About Me:
 🔭 I’m currently working on a Battleship Game <a href="https://github.com/hmjatt/Battleship"> Code </a> <br>👯 I’m looking to collaborate on Open Source Projects<br>🤝 Feel free to reach out for collaboration<br>🌱 I’m currently learning JS, Jest, React<br>💬 Ask me about hardware or software, know a little about both worlds<br>⚡ Fun fact - Coding is my superpower :smile:<br>:national_park: Check out my<a href="https://hmjatt.github.io/Landing-page/"> Landing Page </a> 
