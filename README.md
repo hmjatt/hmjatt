@@ -1,5 +1,4 @@
-<h1 align="center"> Hi 👋, I'm Harmeet </h1>
-<h2 align="center"> Full-stack Dev #Canada and helping people along the Journey</h2>
+<img src="https://github.com/hmjatt/hmjatt.github.io/blob/master/images/gitBanner.gif" alt="Banner"></img>
 
 <br>
 <br>
