@@ -2,7 +2,7 @@
 
 
 # 💫 About Me:
-🔭 I’m currently working on `Meme Generator App`, created using ReactJS <a href="https://github.com/hmjatt/Meme-Generator-ReactJS"> Code </a> <br>👯 I’m looking to collaborate on Open Source Projects<br>🤝 Feel free to reach out for collaboration<br>🌱 I’m currently learning ReactJS <br>💬 Ask me about hardware or software, know a little about both worlds<br>⚡ Fun fact - Coding is my superpower :smile:<br>:national_park: Check out my<a href="https://hmjatt.github.io/Landing-page/"> Landing Page </a> 
+🔭 I’m currently working on `Tenzies Game`, created using ReactJS <a href="https://github.com/hmjatt/Tenzies-ReactJS"> Code </a> <br>👯 I’m looking to collaborate on Open Source Projects<br>🤝 Feel free to reach out for collaboration<br>🌱 I’m currently learning ReactJS <br>💬 Ask me about hardware or software, know a little about both worlds<br>⚡ Fun fact - Coding is my superpower :smile:<br>:national_park: Check out my<a href="https://hmjatt.github.io/Landing-page/"> Landing Page </a> 
 
 
 
