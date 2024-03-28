@@ -2,7 +2,7 @@
 
 
 # 💫 About Me:
-🔭 I’m currently working on `Quizzical`, a *Trivia* game created using `ReactJS` -> <a href="https://github.com/hmjatt/Quizzical">Code </a> <br>👯 I’m looking to collaborate on Open Source Projects<br>🤝 Feel free to reach out for collaboration<br>🌱 I’m currently learning ReactJS <br>💬 Ask me about hardware or software, know a little about both worlds<br>:national_park: Check out my<a href="https://hmjatt.github.io/Landing-page/"> Landing Page </a> 
+🔭 I’m currently working on `ExpeniTrack`, a *Budget Managing* app created using `ReactJS, Springboot, MySQL`. With Focus on DevOps and TDD -> <a href="https://github.com/hmjatt/devops-ExpendiTrack">Code </a> <br>👯 I’m looking to collaborate on Open Source Projects<br>🤝 Feel free to reach out for collaboration<br>🌱 I’m currently learning ReactJS <br>💬 Ask me about hardware or software, know a little about both worlds<br>:national_park: Check out my<a href="https://hmjatt.github.io/Landing-page/"> Landing Page </a> 
 
 
 
